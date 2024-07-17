@@ -18,3 +18,7 @@ solutions that solve real-world problems. Adept at collaborating with cross-func
 	Django, Flask, FastAPI, Typesript, Node, Express, React, MongoDB
 5. Programming Language
 	Python, Javascript, Html, CSS, Java, C++, C#, R, GO
+
+## 📈 GitHub Stats
+![codetechmaster999's GitHub stats](https://github-readme-stats.vercel.app/api?username=phantomwork&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phantomwork&layout=compact&theme=radical)
