@@ -1,5 +1,5 @@
 - 🎯 Top 10% on Github, Fiverr, Upwork
-- 🎓 Certified AI Engineer
+- 🎓 Certified Senior AI Engineer
 - 🕒 8+ Years of Specialized Experience
 - ✅ Numerous Successful Projects across AI, ML, NLP, and Computer Vision
 - ✅ Native English;
