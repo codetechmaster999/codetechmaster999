@@ -20,5 +20,4 @@ solutions that solve real-world problems. Adept at collaborating with cross-func
 	Python, Javascript, Html, CSS, Java, C++, C#, R, GO
 
 ## 📈 GitHub Stats
-![codetechmaster999's GitHub stats](https://github-readme-stats.vercel.app/api?username=codetechmaster999&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codetechmaster999&layout=compact&theme=radical)
