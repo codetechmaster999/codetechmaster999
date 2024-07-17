@@ -1,8 +1,8 @@
-🎯 Top 10% on Github, Fiverr, Upwork
-🎓 Certified AI Engineer
-🕒 8+ Years of Specialized Experience
-✅ Numerous Successful Projects across AI, ML, NLP, and Computer Vision
-✅ Native English;
+- 🎯 Top 10% on Github, Fiverr, Upwork
+- 🎓 Certified AI Engineer
+- 🕒 8+ Years of Specialized Experience
+- ✅ Numerous Successful Projects across AI, ML, NLP, and Computer Vision
+- ✅ Native English;
 
 Highly skilled and motivated Computer Vision and NLP Engineer with 8+ years of relevant experience working on a variety of Computer vision and NLP projects, ranging from model customization , object detection and tracking, sentiment analysis and machine translation to chatbot development and text classification.
 Passionate about leveraging machine learning and deep learning techniques to build innovative
